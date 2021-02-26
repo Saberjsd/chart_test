@@ -2311,6 +2311,15 @@ chardet@^0.7.0:
   resolved "https://registry.yarnpkg.com/chardet/-/chardet-0.7.0.tgz#90094849f0937f2eedc2425d0d28a9e5f0cbad9e"
   integrity sha512-mT8iDcrh03qDGRRmoA2hmBJnxpllMR+0/0qlzjqZES6NdiWDcZkCNAk4rPFZ9Q85r27unkiNNg8ZOiwZXBHwcA==
 
+chart.js@3.0.0-beta.10:
+  version "3.0.0-beta.10"
+  resolved "https://registry.npm.taobao.org/chart.js/download/chart.js-3.0.0-beta.10.tgz#d4ebbd40939d18e1677e036733f31276ef24d835"
+  integrity sha1-1Ou9QJOdGOFnfgNnM/MSdu8k2DU=
+
+"chartjs-plugin-datalabels@git+https://github.com/Saberjsd/chartjs-plugin-datalabels.git#chartjs-next":
+  version "0.7.0"
+  resolved "git+https://github.com/Saberjsd/chartjs-plugin-datalabels.git#ec5b5d50c2914a01033695006d5dd0730b8869ff"
+
 check-types@^8.0.3:
   version "8.0.3"
   resolved "https://registry.yarnpkg.com/check-types/-/check-types-8.0.3.tgz#3356cca19c889544f2d7a95ed49ce508a0ecf552"
